@@ -28,6 +28,8 @@
       "ExportDeclaration": { "multiline": true, "minProperties": 3 }
     }],
     "comma-dangle": "off",
-    "@typescript-eslint/comma-dangle": "off"
+    "@typescript-eslint/comma-dangle": "off",
+    "react/function-component-definition": "off",
+    "react/prop-types": "off"
   }
 }
